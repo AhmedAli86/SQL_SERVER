@@ -70,11 +70,6 @@ ORDER BY Data
 
  
 
-
-
-
-
-
 DROP TABLE #FinalTable
 DROP TABLE #TempTable
 DROP TABLE #OriginalTable
